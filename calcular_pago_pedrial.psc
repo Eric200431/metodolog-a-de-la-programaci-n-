@@ -1,5 +1,5 @@
 Proceso calcular_pago_pedrial
-	//Autor:Brayan Daniel Mendiola Gutierrez
+	//Autor:Eric Estrada 
 	//Fecha:4/11/2022
 	definir predrial,descuento1, descuento Como Real;
 	Escribir "****************************************";
